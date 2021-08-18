@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amenities: MyString
+  main_equipment: MyString
+  studio: one
+
+two:
+  amenities: MyString
+  main_equipment: MyString
+  studio: two

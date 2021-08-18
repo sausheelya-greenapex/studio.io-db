@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  session_audio_price: MyString
+  is_enable_discount: false
+  price: one
+  studio: one
+  mixing_service_price: MyString
+  other_production_price: MyString
+
+two:
+  session_audio_price: MyString
+  is_enable_discount: false
+  price: two
+  studio: two
+  mixing_service_price: MyString
+  other_production_price: MyString
